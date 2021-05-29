@@ -1994,9 +1994,9 @@ input, select, textarea {
 	}
 	.features section2 {
 			padding: 3.5em 3em 1em 7em ;
-			width: device-width;
+			width:50%;
 			border-top: solid 1px rgba(255, 255, 255, 0.15);
-			position: relative;
+			position: absolute;
 		}
 
 		.features section {
