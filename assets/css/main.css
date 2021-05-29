@@ -2191,7 +2191,7 @@ input, select, textarea {
 				.features section {
 					border-top-width: 1px !important;
 					border-left-width: 0 !important;
-					width: 100%;
+					width: 50%;
 				}
 
 					.features section:first-child {
